@@ -4,7 +4,7 @@
 > 이유는 누구든지 서버에 요청할 경우 보안 문제와 트래픽 문제가 발생할 수 있다.
 
 ## 프로젝트 형태
-- Project: Maven Project
+- Project: Gradle Project
 - Language: Java 17
 - Spring Boot: 2.7.4
 - Packaging: Jar
